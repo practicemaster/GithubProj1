@@ -4,11 +4,13 @@ public class PracticeOne {
 	public static void main(String[] args) {
 		System.out.println("hello");
 		//rewriting hello 
+		System.out.println("before loop");
 		for(int i = 1;i<=10;i++)
 		{
 			System.out.println(i);
 			
 			
 		}
+		System.out.println("after loop");
 	}
 }
