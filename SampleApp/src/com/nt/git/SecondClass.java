@@ -8,5 +8,6 @@ public class SecondClass {
 		for(int i=0;i<=5;i++) {
 			System.out.println("check your code praveen");
 		}
+		System.out.println("praveen do the work as soon as possible");
 	}
 }
