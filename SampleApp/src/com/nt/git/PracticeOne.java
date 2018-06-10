@@ -8,8 +8,6 @@ public class PracticeOne {
 		for(int i = 1;i<=10;i++)
 		{
 			System.out.println(i);
-			
-			
 		}
 		System.out.println("after loop");
 		System.out.println("i made change in code");
